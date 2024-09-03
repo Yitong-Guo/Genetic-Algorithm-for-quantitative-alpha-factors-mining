@@ -1,0 +1,5 @@
+,mean_old,mean/std_old,mean_new,mean/std_new,mean_all,mean/std_all
+"ts_stddev_window_5(ts_group_dec_zscore_cut_window_55_a_2__0_mode_2(EmaBest5, ts_weighted_mean_window_16(ts_min_window_18(ma_modelEma), xs_grouping_sortreverse_torch_mode_1_rank_6(kurt, ma_std))))",-0.42815590818100663,-0.32861594684053186,0.0068098607003439105,0.005663473732488333,-0.3559481520821264,-0.2745774325450512
+"ts_sum_window_13(xs_grouping_sortreverse_torch_mode_2_rank_4(ts_dec_zscore_cut_window_35_a_0__5_mode_2(modelEma), ts_roll_rank_window_35(modelEma)))",0.34010770249262623,0.26076994863220454,0.14789053586688214,0.11565819629788134,0.3081981333294589,0.23682433559357038
+"ts_group_asc_sort_cut_window_25_n_7_mode_1(ma_kurt, ma_kurt)",0.40604248155209643,0.3116043085931261,0.22153245332271357,0.24028326367683467,0.37544259533044183,0.30048900309593773
+"ts_sum_window_13(xs_grouping_sortreverse_torch_mode_2_rank_4(ts_dec_zscore_cut_window_35_a_0__5_mode_2(ts_group_dec_sort_cut_window_25_n_5_mode_2(meanBest5, ma_meanBest5)), ts_roll_rank_window_35(modelEma)))",0.3424103090562338,0.27217693524619935,0.1367288419503071,0.1103563020872093,0.30826555957619867,0.24531236800912173
