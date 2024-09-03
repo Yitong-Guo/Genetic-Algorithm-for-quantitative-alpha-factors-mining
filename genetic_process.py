@@ -17,7 +17,7 @@ from evaluate_func import *
 
 class GPProcess(TerminalProcess):
     """
-    这里是遗传过程程序
+    Genetic Program Process class
     """
     def __init__(self,
                  train_data,
