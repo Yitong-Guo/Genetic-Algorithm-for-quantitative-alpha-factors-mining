@@ -40,5 +40,8 @@
 - 5. train_evaluations is an evaluation function for the training process, and currently five have been implemented. 
      If both functions of the list are the same, single objective optimization can be achieved. 
      If both functions of the list are not the same, double objective optimization can be achieved by simultaneously considering two evaluate functions.
-     valid_evaluations is the list contains evaluation function of the validation set. 
+     valid_evaluations is the list contains evaluation function of the validation set.
+
+## Reference
+20240520-华泰证券-华泰证券金工深度研究：双目标遗传规划应用于行业轮动 - Huatai Securities
      
